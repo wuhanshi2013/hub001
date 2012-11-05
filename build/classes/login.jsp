@@ -7,6 +7,6 @@
 <title>The Winter is cold</title>
 </head>
 <body>
-
+  Today is Monday 2012-11-5 .It is sunny.
 </body>
 </html>
